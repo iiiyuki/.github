@@ -26,8 +26,8 @@ Iyuki is an undergraduate student-run innovation organization that explores emer
 [github-release-link]: https://github.com/iiiyuki/.github/releases
 [github-releasedate-shield]: https://img.shields.io/github/release-date/iiiyuki/.github?color=black&labelColor=black&style=flat-square
 [github-releasedate-link]: https://github.com/iiiyuki/.github/releases
-[github-action-test-shield]: https://img.shields.io/github/actions/workflow/status/iiiyuki/.github/test.yml?color=black&label=test&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
-[github-action-test-link]: https://github.com/iiiyuki/.github/actions/workflows/test.yml
+[github-action-test-shield]: https://img.shields.io/github/actions/workflow/status/binaryYuki/animeapi/.github/workflows/autoci.yml?color=black&label=test&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
+[github-action-test-link]: https://github.com/binaryYuki/animeapi/.github/actions/workflows/test.yml
 [github-action-release-shield]: https://img.shields.io/github/actions/workflow/status/iiiyuki/.github/release.yml?color=black&label=release&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
 [github-action-release-link]: https://github.com/iiiyuki/.github/actions/workflows/release.yml
 [github-contributors-shield]: https://img.shields.io/github/contributors/iiiyuki/.github?color=c4f042&labelColor=black&style=flat-square
