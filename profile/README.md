@@ -22,21 +22,21 @@ Iyuki is an undergraduate student-run innovation organization that explores emer
 
 </div>
 
-[github-release-shield]: https://img.shields.io/github/v/release/iyuki/.github?color=369eff&labelColor=black&logo=github&style=flat-square
-[github-release-link]: https://github.com/iyuki/.github/releases
-[github-releasedate-shield]: https://img.shields.io/github/release-date/iyuki/.github?color=black&labelColor=black&style=flat-square
-[github-releasedate-link]: https://github.com/iyuki/.github/releases
-[github-action-test-shield]: https://img.shields.io/github/actions/workflow/status/iyuki/.github/test.yml?color=black&label=test&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
-[github-action-test-link]: https://github.com/iyuki/.github/actions/workflows/test.yml
-[github-action-release-shield]: https://img.shields.io/github/actions/workflow/status/iyuki/.github/release.yml?color=black&label=release&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
-[github-action-release-link]: https://github.com/iyuki/.github/actions/workflows/release.yml
-[github-contributors-shield]: https://img.shields.io/github/contributors/iyuki/.github?color=c4f042&labelColor=black&style=flat-square
-[github-contributors-link]: https://github.com/iyuki/.github/graphs/contributors
+[github-release-shield]: https://img.shields.io/github/v/release/iiiyuki/.github?color=369eff&labelColor=black&logo=github&style=flat-square
+[github-release-link]: https://github.com/iiiyuki/.github/releases
+[github-releasedate-shield]: https://img.shields.io/github/release-date/iiiyuki/.github?color=black&labelColor=black&style=flat-square
+[github-releasedate-link]: https://github.com/iiiyuki/.github/releases
+[github-action-test-shield]: https://img.shields.io/github/actions/workflow/status/iiiyuki/.github/test.yml?color=black&label=test&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
+[github-action-test-link]: https://github.com/iiiyuki/.github/actions/workflows/test.yml
+[github-action-release-shield]: https://img.shields.io/github/actions/workflow/status/iiiyuki/.github/release.yml?color=black&label=release&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
+[github-action-release-link]: https://github.com/iiiyuki/.github/actions/workflows/release.yml
+[github-contributors-shield]: https://img.shields.io/github/contributors/iiiyuki/.github?color=c4f042&labelColor=black&style=flat-square
+[github-contributors-link]: https://github.com/iiiyuki/.github/graphs/contributors
 [github-forks-shield]: https://img.shields.io/github/forks/iyuki/.github?color=8ae8ff&labelColor=black&style=flat-square
-[github-forks-link]: https://github.com/iyuki/.github/network/members
-[github-stars-shield]: https://img.shields.io/github/stars/iyuki/.github?color=ffcb47&labelColor=black&style=flat-square
-[github-stars-link]: https://github.com/iyuki/.github/network/stargazers
-[github-issues-shield]: https://img.shields.io/github/issues/iyuki/.github?color=ff80eb&labelColor=black&style=flat-square
-[github-issues-link]: https://github.com/iyuki/.github/issues
-[github-license-shield]: https://img.shields.io/github/license/iyuki/.github?color=white&labelColor=black&style=flat-square
-[github-license-link]: https://github.com/iyuki/.github/blob/main/LICENSE
+[github-forks-link]: https://github.com/iiiyuki/.github/network/members
+[github-stars-shield]: https://img.shields.io/github/stars/iiiyuki/.github?color=ffcb47&labelColor=black&style=flat-square
+[github-stars-link]: https://github.com/iiiyuki/.github/network/stargazers
+[github-issues-shield]: https://img.shields.io/github/issues/iiiyuki/.github?color=ff80eb&labelColor=black&style=flat-square
+[github-issues-link]: https://github.com/iiiyuki/.github/issues
+[github-license-shield]: https://img.shields.io/github/license/iiiyuki/.github?color=white&labelColor=black&style=flat-square
+[github-license-link]: https://github.com/iiiyuki/.github/blob/main/LICENSE
